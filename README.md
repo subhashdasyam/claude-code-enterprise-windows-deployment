@@ -385,16 +385,5 @@ Manual rotation:
 - **Log Files**: `C:\ProgramData\ClaudeCode\logs\`
 - **Event Logs**: Application Log (Source: ClaudeCodeSecurity)
 
-## Version History
 
-- **v2.0** (October 2025): Added shadow installation prevention, comprehensive testing
-- **v1.0** (October 2025): Initial release with core security features
 
-## License
-
-Enterprise Internal Use Only
-
----
-
-**Enterprise Security Team**
-**Last Updated**: October 2025
