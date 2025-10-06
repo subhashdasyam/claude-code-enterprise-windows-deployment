@@ -7,13 +7,21 @@ Comprehensive PowerShell automation script for deploying Claude Code with enterp
 ## Features
 
 ✅ **Complete Automation** - One-click enterprise deployment
+
 ✅ **10 Major Modules** - Installation, policies, hooks, monitoring, testing
+
 ✅ **Interactive Menu** - User-friendly interface for selective deployment
+
 ✅ **Parameter Support** - Command-line automation for CI/CD
+
 ✅ **Comprehensive Logging** - Full audit trail with transcript logging
+
 ✅ **Validation Testing** - Built-in tests to verify deployment
+
 ✅ **Rollback Support** - Complete uninstall capability
+
 ✅ **Multi-Layer Security** - Shadow installation prevention with 7 defense layers
+
 
 ## Prerequisites
 
